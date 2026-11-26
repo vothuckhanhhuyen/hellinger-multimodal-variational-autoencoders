@@ -53,6 +53,20 @@ booktitle={The 29th International Conference on Artificial Intelligence and Stat
 year={2026},
 url={https://openreview.net/forum?id=mxHyYltMUa}
 }
+@InProceedings{pmlr-v300-vo26b,
+  title = 	 { Hellinger Multimodal Variational Autoencoders },
+  author =       {Vo, Huyen Thuc Khanh and Valera, Isabel},
+  booktitle = 	 {Proceedings of The 29th International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {2260--2268},
+  year = 	 {2026},
+  editor = 	 {Khan, Emtiyaz and Li, Yingzhen and Solin, Arno and Ramdas, Aaditya},
+  volume = 	 {300},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {02--05 May},
+  publisher =    {PMLR},
+  url = 	 {https://proceedings.mlr.press/v300/vo26b.html},
+}
+
 ```
 
 #### Acknowledgements
