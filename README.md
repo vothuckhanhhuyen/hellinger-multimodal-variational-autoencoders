@@ -45,14 +45,6 @@ toy_dataset_helvae.ipynb
 
 ## Citing 
 ```
-@inproceedings{
-vo2026hellinger,
-title={Hellinger Multimodal Variational Autoencoders},
-author={Huyen Thuc Khanh Vo and Isabel Valera},
-booktitle={The 29th International Conference on Artificial Intelligence and Statistics},
-year={2026},
-url={https://openreview.net/forum?id=mxHyYltMUa}
-}
 @InProceedings{pmlr-v300-vo26b,
   title = 	 { Hellinger Multimodal Variational Autoencoders },
   author =       {Vo, Huyen Thuc Khanh and Valera, Isabel},
